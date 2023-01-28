@@ -1,0 +1,29 @@
+##MISSION FIREWALL INITIATED##
+Started scanning...
+--------------------------------------------------------------------------------
+Detected malware!
+Name: Zombifier.Win32.AMDMB2022.C
+Threat Level: 5
+Hash:21d6f000013d7
+--------------------------------------------------------------------------------
+Detected malware!
+Name: BatteringRam.Win64.CPUKILLER.YXBDN
+Threat Level: 8
+Hash:14216300004470
+--------------------------------------------------------------------------------
+Detected malware!
+Name: Ransom.Win32.CRYPTOLOVER.THCABBA
+Threat Level: 3
+Hash:bf82700002e17
+--------------------------------------------------------------------------------
+Scan complete! 3 threats are found and eliminated. Generating log file...
+##MISSION FIREWALL COMPLETED##
+##MISSION NUKE'M INITIATED##
+The total number of enemies arrived: 22
+Maximum number of enemies killed: 10
+Hours at which the weapon should be fired: 3, 4
+The number of enemies left alive: 12
+##MISSION NUKE'M COMPLETED##
+##MISSION EXTERMINATE INITIATED##
+The minimum number of AUAVs to deploy for complete extermination of the enemy army: 5
+##MISSION EXTERMINATE COMPLETED##

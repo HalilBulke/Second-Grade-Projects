@@ -1,0 +1,3 @@
+##MISSION EXTERMINATE INITIATED##
+The minimum number of AUAVs to deploy for complete extermination of the enemy army: 5
+##MISSION EXTERMINATE COMPLETED##

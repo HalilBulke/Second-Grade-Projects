@@ -1,0 +1,20 @@
+##MISSION FIREWALL INITIATED##
+Started scanning...
+--------------------------------------------------------------------------------
+Detected malware!
+Name: Zombifier.Win32.AMDMB2022.C
+Threat Level: 5
+Hash:21d6f000013d7
+--------------------------------------------------------------------------------
+Detected malware!
+Name: BatteringRam.Win64.CPUKILLER.YXBDN
+Threat Level: 8
+Hash:14216300004470
+--------------------------------------------------------------------------------
+Detected malware!
+Name: Ransom.Win32.CRYPTOLOVER.THCABBA
+Threat Level: 3
+Hash:bf82700002e17
+--------------------------------------------------------------------------------
+Scan complete! 3 threats are found and eliminated. Generating log file...
+##MISSION FIREWALL COMPLETED##

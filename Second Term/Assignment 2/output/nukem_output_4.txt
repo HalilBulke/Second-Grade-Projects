@@ -1,0 +1,6 @@
+##MISSION NUKE'M INITIATED##
+The total number of enemies arrived: 35
+Maximum number of enemies killed: 13
+Hours at which the weapon should be fired: 3, 5
+The number of enemies left alive: 22
+##MISSION NUKE'M COMPLETED##
